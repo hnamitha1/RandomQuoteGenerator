@@ -1,0 +1,71 @@
+
+body{
+  background-color: #b9628b;
+}
+.content{
+  width: 700px ;
+  height: 200px;
+  margin-left: auto ;
+  margin-right: auto ;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+.heading { 
+  color: #2d0d18; 
+  font-family: "Great Vibes", cursive; 
+  font-size: 60px; 
+  line-height: 60px; 
+  font-weight: normal; 
+  margin-bottom: 20px; 
+  margin-top: 40px; 
+  text-align: center; 
+  text-shadow: 0 1px 1px #fff; 
+}
+
+.message
+{
+  text-shadow:1px 1px 1px rgba(189,255,226,1);
+  font-weight:normal;
+  color:#ffffff;
+  letter-spacing:1pt;
+  word-spacing:2pt;
+  font-size:26px;
+  text-align:center;
+  font-family:comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+  line-height:1;
+}
+
+.author { 
+  font-style: italic; 
+  color: #B6B6B6; 
+  font-size: 24px; 
+  margin-top: 20px; 
+  text-align: center; 
+  text-shadow: 0 1px 1px #fff; }
+
+.myButton {
+	-moz-box-shadow: 4px 4px 0px 0px #899599;
+	-webkit-box-shadow: 4px 4px 0px 0px #899599;
+	box-shadow: 4px 4px 0px 0px #899599;
+	background-color:#ededed;
+	-moz-border-radius:11px;
+	-webkit-border-radius:11px;
+	border-radius:11px;
+	border:2px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#0e4c5c;
+	font-family:Arial;
+	font-size:27px;
+	font-weight:bold;
+	padding:8px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 7px #e1e2ed;
+}
+.myButton:hover {
+	background-color:#bab1ba;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
