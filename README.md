@@ -1,5 +1,11 @@
 **Author:** Namitha Hanumantharaya
 
+### Technologies used
+
+	* HTML
+	* CSS
+	* Jquery
+
 Instructions
 ------------
 These are the instructions for how to download and run the application:
